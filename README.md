@@ -11,3 +11,8 @@ port forwarding:
 https://medium.com/@tuweizhong/how-to-setup-port-forward-at-vmware-fusion-8-for-os-x-742ad6ca1344
 
 
+The notation \nu \sim N(0, Q)ν∼N(0,Q) defines the process noise as a gaussian distribution with mean zero and covariance Q.
+
+The notation \omega \sim N(0, R)ω∼N(0,R) defines the measurement noise as a gaussian distribution with mean zero and covariance R. Measurement noise comes from uncertainty in sensor measurements.
+
+
