@@ -10,6 +10,9 @@ https://classroom.udacity.com/nanodegrees/nd013/parts/40f38239-66b6-46ec-ae68-03
 port forwarding:
 https://medium.com/@tuweizhong/how-to-setup-port-forward-at-vmware-fusion-8-for-os-x-742ad6ca1344
 
+x is the mean state vector. For an extended Kalman filter, the mean state vector contains information about the object's position and velocity that you are tracking. It is called the "mean" state vector because position and velocity are represented by a gaussian distribution with mean xx.
+
+P is the state covariance matrix, which contains information about the uncertainty of the object's position and velocity. You can think of it as containing standard deviations.
 
 The notation *ν∼N(0,Q)* defines the process noise as a gaussian distribution with mean zero and covariance Q.
 
