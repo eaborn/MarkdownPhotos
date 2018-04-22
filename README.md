@@ -19,3 +19,7 @@ The notation *ν∼N(0,Q)* defines the process noise as a gaussian distribution 
 The notation *ω∼N(0,R)* defines the measurement noise as a gaussian distribution with mean zero and covariance R. Measurement noise comes from uncertainty in sensor measurements.
 
 
+**make vs cmake**
+https://my.oschina.net/xunxun/blog/86781
+
+
